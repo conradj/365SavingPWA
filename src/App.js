@@ -51,7 +51,7 @@ class App extends Component {
         </header>
         {showPlanSelect && (
           <section className="plans">
-            <h2>Choose a Savings challenge</h2>
+            <h2>Choose a Savings challenge!</h2>
             <div className="plan-selector">
               <div key="new-plan-1" className="plan-new">
                 <button onClick={e => this.setPlan("1p", e)}>
