@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  /* background-color: rgb(7, 1, 94); */
+}
+
+table {
+  width: 500px;
+  text-align: left;
+}
+
+button {
+  border-radius: 4px;
+  border: 1px solid blue;
+  color: blue;
+  background-color: transparent;
+  padding: 10px;
+}
